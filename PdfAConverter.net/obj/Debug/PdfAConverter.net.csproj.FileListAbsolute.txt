@@ -1,0 +1,7 @@
+E:\Projects\DotNet\PdfAConvertor.net\PdfAConverter.net\bin\Debug\PdfAConverter.net.exe
+E:\Projects\DotNet\PdfAConvertor.net\PdfAConverter.net\bin\Debug\PdfAConverter.net.pdb
+E:\Projects\DotNet\PdfAConvertor.net\PdfAConverter.net\bin\Debug\itextsharp.dll
+E:\Projects\DotNet\PdfAConvertor.net\PdfAConverter.net\bin\Debug\itextsharp.pdfa.dll
+E:\Projects\DotNet\PdfAConvertor.net\PdfAConverter.net\bin\Debug\itextsharp.xml
+E:\Projects\DotNet\PdfAConvertor.net\PdfAConverter.net\obj\Debug\PdfAConverter.net.exe
+E:\Projects\DotNet\PdfAConvertor.net\PdfAConverter.net\obj\Debug\PdfAConverter.net.pdb
