@@ -7,8 +7,8 @@
     <ProjectGuid>{C60C49BD-E389-40FD-8265-C0CDF3429C8E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PdfAConvertor.net</RootNamespace>
-    <AssemblyName>PdfAConvertor.net</AssemblyName>
+    <RootNamespace>PdfAConverter.net</RootNamespace>
+    <AssemblyName>PdfAConverter.net</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
